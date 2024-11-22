@@ -9,12 +9,7 @@ Bu depo, Unity'de iki parçalı bir oyun geliştirme ödevi için materyalleri v
    - **Oyun Alanı:** 3B nesnelerin rastgele dağıtıldığı merkezi bir alan.  
    - **Yerleştirme Alanı:** Oyuncuların nesneleri yerleştirebileceği ekranın alt kısmında dairesel bir alan.  
    - **Nesne Etkileşimi:** Oyuncuların nesneleri sürükleyip bırakmasına olanak tanır.  
-2. **Eşleştirme Mekanikleri:**  
-   - Yerleştirilen nesnelerin doğru bir şekilde eşleşmesini sağlar.  
-3. **Puan Sistemi:**  
-   - Başarılı eşleşmelerin puanlanması ve kullanıcıya gösterilmesi.  
-4. **Bonus Özellikler:**  
-   - Görsel cilalama, animasyonlar ve estetik iyileştirmeler gibi isteğe bağlı ek özellikler.  
+ 
 
 ### Hedefler  
 - Akıcı ve eğlenceli bir oyun deneyimi sağlamak.  
@@ -28,13 +23,13 @@ Bu depo, Unity'de iki parçalı bir oyun geliştirme ödevi için materyalleri v
 ### Örnek Ekran Görüntüsü  
 ![Oyun Alanı] ![image1](https://github.com/user-attachments/assets/7fe80925-d425-43f1-ab6f-30ea3fee3b19)
 ![image2](https://github.com/user-attachments/assets/8af82a1b-113b-4baf-a329-89b647bda2e6)
-![image3](https://github.com/user-attachments/assets/9703dac0-2e1e-46e8-ac7b-3cadb1fbccef)
+![image3](![Ekran görüntüsü 2024-11-22 234211](https://github.com/user-attachments/assets/68ebfa1b-a080-4549-97d1-c3f6813cd8ab)
+)
 
 
 
 ### Oyun Hareketli Önizlemesi  
-[Ekran Kaydı İçin Tıklayın] (https://youtu.be/Dpo7IsEOjOw)  
-Kısa Kod Açıklamaları : (https://youtu.be/1kVRyHFIX18)
+[Ekran Kaydı İçin Tıklayın] (https://youtu.be/nGHtAKj13Hk)  
 
 ---
 
