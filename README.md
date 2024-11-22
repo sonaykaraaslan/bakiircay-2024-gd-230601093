@@ -1,5 +1,3 @@
-# bakiircay-2024-gd-230601093
-3D Match-3 game developed with Unity featuring engaging gameplay, smooth animations, and a scoring system.
 
 # Bakırçay Güz-2024 Oyun Geliştirme Projesi  
 
@@ -35,7 +33,8 @@ Bu depo, Unity'de iki parçalı bir oyun geliştirme ödevi için materyalleri v
 
 
 ### Oyun Hareketli Önizlemesi  
-[Ekran Kaydı İçin Tıklayın](https://github.com/sonaykaraaslan/bakiircay-2024-gd-230601093/raw/main/screenshots/oyun-onizleme.mp4)  
+[Ekran Kaydı İçin Tıklayın](https://youtu.be/Dpo7IsEOjOw)  
+Kısa Kod Açıklamaları : (https://youtu.be/1kVRyHFIX18)
 
 ---
 
