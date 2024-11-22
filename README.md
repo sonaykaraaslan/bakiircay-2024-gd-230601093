@@ -33,7 +33,7 @@ Bu depo, Unity'de iki parçalı bir oyun geliştirme ödevi için materyalleri v
 
 
 ### Oyun Hareketli Önizlemesi  
-[Ekran Kaydı İçin Tıklayın](https://youtu.be/Dpo7IsEOjOw)  
+[Ekran Kaydı İçin Tıklayın] (https://youtu.be/Dpo7IsEOjOw)  
 Kısa Kod Açıklamaları : (https://youtu.be/1kVRyHFIX18)
 
 ---
